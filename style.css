@@ -1,0 +1,11 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: black;
+  color: limegreen;
+  color: #39d353;
+  font-size: 5rem;
+  overflow: hidden;
+}
